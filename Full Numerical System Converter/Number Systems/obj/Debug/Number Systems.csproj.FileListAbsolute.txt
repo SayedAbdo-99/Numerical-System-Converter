@@ -1,0 +1,21 @@
+C:\Users\Sayed\Desktop\Number Systems\Number Systems\bin\Debug\Number Systems.exe.config
+C:\Users\Sayed\Desktop\Number Systems\Number Systems\bin\Debug\Number Systems.exe
+C:\Users\Sayed\Desktop\Number Systems\Number Systems\bin\Debug\Number Systems.pdb
+C:\Users\Sayed\Desktop\Number Systems\Number Systems\obj\Debug\Number Systems.csprojResolveAssemblyReference.cache
+C:\Users\Sayed\Desktop\Number Systems\Number Systems\obj\Debug\Number_Systems.Form1.resources
+C:\Users\Sayed\Desktop\Number Systems\Number Systems\obj\Debug\Number_Systems.Properties.Resources.resources
+C:\Users\Sayed\Desktop\Number Systems\Number Systems\obj\Debug\Number Systems.csproj.GenerateResource.Cache
+C:\Users\Sayed\Desktop\Number Systems\Number Systems\obj\Debug\Number Systems.exe
+C:\Users\Sayed\Desktop\Number Systems\Number Systems\obj\Debug\Number Systems.pdb
+E:\Projectes\Number Systems\Number Systems\bin\Debug\Number Systems.exe.config
+E:\Projectes\Number Systems\Number Systems\obj\Debug\Number Systems.exe
+E:\Projectes\Number Systems\Number Systems\obj\Debug\Number Systems.pdb
+G:\2 c# خاص\Projectes\Number Systems\Number Systems\bin\Debug\Number Systems.exe.config
+G:\2 c# خاص\Projectes\Number Systems\Number Systems\bin\Debug\Number Systems.exe
+G:\2 c# خاص\Projectes\Number Systems\Number Systems\bin\Debug\Number Systems.pdb
+G:\2 c# خاص\Projectes\Number Systems\Number Systems\obj\Debug\Number Systems.csprojAssemblyReference.cache
+G:\2 c# خاص\Projectes\Number Systems\Number Systems\obj\Debug\Number_Systems.Form1.resources
+G:\2 c# خاص\Projectes\Number Systems\Number Systems\obj\Debug\Number_Systems.Properties.Resources.resources
+G:\2 c# خاص\Projectes\Number Systems\Number Systems\obj\Debug\Number Systems.csproj.GenerateResource.cache
+G:\2 c# خاص\Projectes\Number Systems\Number Systems\obj\Debug\Number Systems.exe
+G:\2 c# خاص\Projectes\Number Systems\Number Systems\obj\Debug\Number Systems.pdb
